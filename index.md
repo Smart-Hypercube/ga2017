@@ -1,5 +1,5 @@
 ---
-title: An outlook to distributed sociel network
+title: An outlook to distributed social network
 template: default
 ---
 
@@ -9,7 +9,7 @@ class: center, middle, inverse
 
 ---
 
-# An outlook to distributed sociel network
+# An outlook to distributed social network
 ## Zibo Wang, CTO of USTC LUG
 
 ## [hypercube@0x01.me](mailto:hypercube@0x01.me)
